@@ -6,6 +6,7 @@
 #include <cstdlib> 
 
 
+
 using namespace std;
 //Найти сумму ряда Фибоначчи
 int Fib(int i)
