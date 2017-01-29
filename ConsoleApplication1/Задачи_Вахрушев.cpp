@@ -3,11 +3,15 @@
 
 #include "stdafx.h"
 #include <iostream>
-#include <cstdlib> 
+#include <cstdlib>
+#include "Zadachi2.h"
+
 
 
 
 using namespace std;
+
+
 //Найти сумму ряда Фибоначчи
 int Fib(int i)
 {
@@ -99,8 +103,10 @@ void sum_lucky()
 int main()
 {
 	//Найти сумму ряда Фибоначчи
-	psequence();
+	//psequence();
 	//Найти все счастливые билеты
 	//sum_lucky();
+	//paralSquare();
+	anyMassive();
 	return 0;
 }
